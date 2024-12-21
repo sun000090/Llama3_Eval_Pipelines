@@ -1,2 +1,2 @@
 # Llama3_Eval_Pipelines
-Different evaluation pipelines for Llama 3 model
+WIP - Different evaluation pipelines for Llama 3 model
